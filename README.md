@@ -1,2 +1,2 @@
 # Inventory-management-system
-this is inventory management system using python.
+This is the Inventory management system devloped by python,during ETG AI/ML internship. 
